@@ -37,7 +37,7 @@ void BreakingGrid1App::setup()
     mSize = 5.0f;
     
     gl::enableAlphaBlending();
-    glLineWidth(5.0f);
+    glLineWidth(mSize/2);
 }
 
 void BreakingGrid1App::mouseDown( MouseEvent event )
