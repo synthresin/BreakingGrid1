@@ -4,39 +4,39 @@ r1
 cCheck dependencies
 cProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/Info.plist Info.plist
 cCpResource CinderApp.icns ./build/Debug/BreakingGrid1.app/Contents/Resources/CinderApp.icns
-cProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-celxyucnbbhemgdlwqujztopnejl/BreakingGrid1_Prefix.pch.pth BreakingGrid1_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-gnhnlnhiqjrzybawtpcwpkywofpz/BreakingGrid1_Prefix.pch.pth BreakingGrid1_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC ./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.o /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../src/BreakingGrid1App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid1 normal i386
 cTouch /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c0000000050224CA700000000000000AA
-t1344425127
+c00000000503F1B7700000000000000AA
+t1346313079
 s170
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
-c00000000501022E800000000000024F0
-t1343234792
+c00000000505A3E6E00000000000024F0
+t1348091502
 s9456
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c00000000501022E80000000000024C14
-t1343234792
-s150548
+c00000000505A3E6E0000000000024D90
+t1348091502
+s150928
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
-c00000000501022E800000000000060B4
-t1343234792
+c00000000505A3E6E00000000000060B4
+t1348091502
 s24756
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c00000000501022E900000000000001E5
-t1343234793
+c00000000505A3E6E00000000000001E5
+t1348091502
 s485
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
-c00000000501022E9000000000000E920
-t1343234793
+c00000000505A3E6E000000000000E920
+t1348091502
 s59680
 
 N/System/Library/Frameworks/Carbon.framework/Carbon
@@ -50,23 +50,23 @@ t1343231427
 s26416
 
 N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-c00000000501015C70000000000081CB0
-t1343231431
+c00000000505A399E0000000000081CB0
+t1348090270
 s531632
 
 N/System/Library/Frameworks/OpenGL.framework/OpenGL
-c00000000501015CF000000000002DAF0
-t1343231439
+c00000000505A39A3000000000002DAF0
+t1348090275
 s187120
 
 N/System/Library/Frameworks/QTKit.framework/QTKit
-c00000000501015D300000000004A2D90
-t1343231443
+c0000000050592BA800000000004A2D90
+t1348021160
 s4861328
 
 N/System/Library/Frameworks/QuickTime.framework/QuickTime
-c00000000501016CB0000000000322E20
-t1343231691
+c00000000505A39A30000000000322E20
+t1348090275
 s3288608
 
 N/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../../../boost/boost/aligned_storage.hpp
@@ -5440,9 +5440,9 @@ t1336782579
 s24149
 
 N/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../src/BreakingGrid1App.cpp
-c000000005059E79F0000000000000795
-t1348069279
-s1941
+c00000000505A86EC0000000000000A03
+t1348110060
+s2563
 
 N/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1.LinkFileList
 c000000005059E22F0000000000000097
@@ -5450,23 +5450,23 @@ t1348067887
 s151
 
 N/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.o
-t1348069257
-s348208
+t1348110042
+s350508
 
 N/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app
-t1348069257
+t1348110043
 s102
 
 N/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/Info.plist
-t1348067887
-s1238
+t1348110040
+s1235
 
 N/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid1
-t1348069257
-s7808576
+t1348110043
+s7809184
 
 N/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/PkgInfo
-t1348067887
+t1348110040
 s8
 
 N/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/Resources/CinderApp.icns
@@ -5488,6 +5488,10 @@ N/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrec
 t1348067887
 s95524
 
+N/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-gnhnlnhiqjrzybawtpcwpkywofpz/BreakingGrid1_Prefix.pch.pth
+t1348110040
+s95528
+
 NInfo.plist
 c000000005059DFFB0000000000000353
 t1348067323
@@ -5498,11 +5502,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7139a21f1f0ab641^9163a31f1f0ab641^---0#1#0#--18"Check dependencies36"7CF9164B-EC99-4F06-8B23-9CECE0B10F0A-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies38bffd6cbe0ab641^5f07fe6cbe0ab641^---0#1#0#--18"Check dependencies36"D6299532-FC05-43C1-97F3-996B3250970D-
 
 CCompileC ./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.o /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../src/BreakingGrid1App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s369762079.686576
-e369762082.046318
+s369802861.032486
+e369802863.391365
 r1
 xCompileC
 x./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.o
@@ -5511,7 +5515,7 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../src/BreakingGrid1App.cpp6bd8af1f1f0ab641^e4db0b221f0ab641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../src/BreakingGrid1App.cpp0000000000000000^2994"CompileC ./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.o ../src/BreakingGrid1App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug -include /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-celxyucnbbhemgdlwqujztopnejl/BreakingGrid1_Prefix.pch -MMD -MT dependencies -MF /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.d --serialize-diagnostics /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.dia -c /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../src/BreakingGrid1App.cpp -o /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.o36"55D2FBA1-7FCC-45A0-9A4B-91C210D2B8CD-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../src/BreakingGrid1App.cpp4c8d086dbe0ab641^f530646fbe0ab641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../src/BreakingGrid1App.cpp0000000000000000^2995"CompileC ./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.o ../src/BreakingGrid1App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug -include /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-gnhnlnhiqjrzybawtpcwpkywofpz/BreakingGrid1_Prefix.pch -MMD -MT dependencies -MF /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.d --serialize-diagnostics /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.dia -c /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/../src/BreakingGrid1App.cpp -o /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1App.o36"ED1E7D78-6A31-44ED-8615-8CE640194E1A-
 
 CCpResource CinderApp.icns ./build/Debug/BreakingGrid1.app/Contents/Resources/CinderApp.icns
 s369760687.441848
@@ -5523,23 +5527,26 @@ x./build/Debug/BreakingGrid1.app/Contents/Resources/CinderApp.icns
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy ./build/Debug/BreakingGrid1.app/Contents/Resources/CinderApp.icnsb62e71af190ab641^d0b371af190ab641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/Resources/CinderApp.icns000000000080d041^451"CpResource CinderApp.icns ./build/Debug/BreakingGrid1.app/Contents/Resources/CinderApp.icns    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/CinderApp.icns /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/Resources36"0716CB8A-61E7-41E0-ABD0-5C164ED4BA16-
 
 CLd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid1 normal i386
-s369762082.053015
-e369762082.384406
+s369802863.398218
+e369802863.731798
 r1
 xLd
 x/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid1
 xnormal
 xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid1b6a20d221f0ab641^e46862221f0ab641^---0#0#0#--1097"Ld ./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid1 normal i386    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug -F/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug -filelist /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1.LinkFileList -mmacosx-version-min=10.5 ../../..//lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid136"4ACACD98-04A1-4050-A19B-CCF8E83FC02B-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid15402666fbe0ab641^3a58bb6fbe0ab641^---0#0#0#--1097"Ld ./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid1 normal i386    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug -F/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug -filelist /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/Objects-normal/i386/BreakingGrid1.LinkFileList -mmacosx-version-min=10.5 ../../..//lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/MacOS/BreakingGrid136"D1BDD20D-9BD5-4562-830E-617BBA537E8C-
 
 CProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/Info.plist Info.plist
-s369760687.430941
-e369760687.433956
+s369802840.474423
+e369802840.477086
 r1
 xProcessInfoPlistFile
 x/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/Info.plist
 xInfo.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist205f6eaf190ab641^193d6faf190ab641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/Info.plist0000000000000000^459"ProcessInfoPlistFile ./build/Debug/BreakingGrid1.app/Contents/Info.plist Info.plist    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/Info.plist36"20541E29-8E30-471F-8628-2631A89B8D5B-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist268d7958be0ab641^753c7a58be0ab641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/Info.plist0000000000000000^459"ProcessInfoPlistFile ./build/Debug/BreakingGrid1.app/Contents/Info.plist Info.plist    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app/Contents/Info.plist36"D745FDA0-8592-40F1-BC98-5EF17A72EC48-
+
+CProcessPCH++ /Users/synthresin/Library/Developer/Xcode/DerivedData/BreakingGrid1-doicaiyvhurtdpehdvcqsjtzurax/Index/PrecompiledHeaders/BreakingGrid1_Prefix-fpcwqhakajgbsfgdxjxnljetkjyj_ast/BreakingGrid1_Prefix.pch.pth BreakingGrid1_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
 
 CProcessPCH++ /Users/synthresin/Library/Developer/Xcode/DerivedData/BreakingGrid1-doicaiyvhurtdpehdvcqsjtzurax/Index/PrecompiledHeaders/BreakingGrid1_Prefix-gugohozelscxdwfsabzxsruzsbmx_ast/BreakingGrid1_Prefix.pch.pth BreakingGrid1_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
@@ -5557,11 +5564,24 @@ xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile BreakingGrid1_Prefix.pch95d673af190ab641^8d0896af190ab641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/BreakingGrid1_Prefix.pch0000000000000000^2963"ProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-celxyucnbbhemgdlwqujztopnejl/BreakingGrid1_Prefix.pch.pth BreakingGrid1_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug --serialize-diagnostics /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-celxyucnbbhemgdlwqujztopnejl/BreakingGrid1_Prefix.pch.dia -c /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/BreakingGrid1_Prefix.pch -o /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-celxyucnbbhemgdlwqujztopnejl/BreakingGrid1_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-celxyucnbbhemgdlwqujztopnejl/BreakingGrid1_Prefix.pch.d36"C3F8B1B7-F975-4646-B58B-A6E4A9A8F5A7-
 
+CProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-gnhnlnhiqjrzybawtpcwpkywofpz/BreakingGrid1_Prefix.pch.pth BreakingGrid1_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s369802840.493768
+e369802840.546219
+r1
+xProcessPCH++
+x/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-gnhnlnhiqjrzybawtpcwpkywofpz/BreakingGrid1_Prefix.pch.pth
+xBreakingGrid1_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile BreakingGrid1_Prefix.pch86917e58be0ab641^e1d48b58be0ab641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/BreakingGrid1_Prefix.pch0000000000000000^2964"ProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-gnhnlnhiqjrzybawtpcwpkywofpz/BreakingGrid1_Prefix.pch.pth BreakingGrid1_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/BreakingGrid1-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/BreakingGrid1.build/Debug/BreakingGrid1.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/build/Debug --serialize-diagnostics /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-gnhnlnhiqjrzybawtpcwpkywofpz/BreakingGrid1_Prefix.pch.dia -c /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/BreakingGrid1_Prefix.pch -o /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-gnhnlnhiqjrzybawtpcwpkywofpz/BreakingGrid1_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BreakingGrid1_Prefix-gnhnlnhiqjrzybawtpcwpkywofpz/BreakingGrid1_Prefix.pch.d36"17C02547-7339-42DC-B252-DBF7FF0BC448-
+
 CTouch /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app
-s369762082.392021
-e369762082.397592
+s369802863.739831
+e369802863.744936
 r1
 xTouch
 x/Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Touch /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app016864221f0ab641^b8c865221f0ab641^---0#0#0#--215"Touch ./build/Debug/BreakingGrid1.app    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    /usr/bin/touch -c /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app36"C1A8D5D0-416C-4C14-B755-DDD07A5F6DF6-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Touch /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app7573bd6fbe0ab641^f5bdbe6fbe0ab641^---0#0#0#--215"Touch ./build/Debug/BreakingGrid1.app    cd /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode    /usr/bin/touch -c /Users/synthresin/Desktop/cinder/apps/BreakingGrid1/xcode/./build/Debug/BreakingGrid1.app36"5D0FBF39-0A37-4245-BCBF-0B767E1337B2-
 
