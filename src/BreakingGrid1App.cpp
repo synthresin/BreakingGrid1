@@ -93,6 +93,11 @@ void BreakingGrid1App::draw()
             gl::pushMatrices();
             gl::translate(center);
             gl::drawStrokedCircle(Vec2f::zero(), mSize);
+//            gl::begin(GL_LINE_LOOP);
+//            gl::vertex(Vec2f::zero());
+//            gl::vertex(Vec2f(mSize, 0));
+//            gl::vertex(Vec2f(0, mSize));
+//            gl::end();
             
             gl::popMatrices();
             
